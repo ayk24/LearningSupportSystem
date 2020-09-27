@@ -1,4 +1,4 @@
-learning_support_system
+LearningSupportSystem
 ====
 ### Real-time learning support system
 <img src="https://github.com/ayk24/learning_support_system/blob/master/doc/app.png" width=80%>
